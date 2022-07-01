@@ -1,0 +1,19 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/spl-token": "^0.2.0",
+    "@solana/web3.js": "^1.45.0",
+    "bip39": "^3.0.4",
+    "ed25519-hd-key": "^1.2.0",
+    "tweetnacl": "^1.0.3"
+  }
+}
